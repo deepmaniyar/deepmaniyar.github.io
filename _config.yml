@@ -11,14 +11,26 @@ email: deepmaniyar@outlook.com
 github_username:  deepmaniyar
 linkedin_username: deepmaniyar
 
+# Site
+repository: deepmaniyar/deepmaniyar.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Deep Maniyar
+title: Data Scientist 
+email: deepmaniyar@outlook.com
+
+# Social links
+github_username:  deepmaniyar
+linkedin_username: deepmaniyar
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Deep and I'm a Master in Applied data Science student. With my professional experience in sales, marketing and analytics has helped me to understand business, its requirements and growth opportuntities. With my academic skill, i have learnt to address these requirements with data-driven insights using machine learning. I have worked at a number of companies, student organizations and project teams gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>Machine Learning</mark> and <mark>Eating any kind of food</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -32,11 +44,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in data science and machine learning some of my other interests and hobbies are:
+   - Football (European one)
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 
 # Footer
 footer_show_references: true
