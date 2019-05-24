@@ -16,7 +16,7 @@ linkedin_username: deepmaniyar
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Deep and I'm a Master in Applied data Science student. With 2 years of experience in sales, marketing and analytics I have developed skills to understand business requirements and with my academic experience I have developed data analytics and machine learning skill to address this requirements using data-driven insights. I have worked at a number of companies, student organizations and project teams gaining teamwork and leadership skills.
+  Hi, my name's Deep and I'm a Master in Applied data Science student. With my professional experience in sales, marketing and analytics has helped me to understand business, its requirements and growth opportuntities. With my academic skill, i have learnt to address these requirements with data-driven insights using machine learning. I have worked at a number of companies, student organizations and project teams gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Python</mark>, <mark>Machine Learning</mark> and <mark>Eating any kind of food</mark>
 
@@ -40,7 +40,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
