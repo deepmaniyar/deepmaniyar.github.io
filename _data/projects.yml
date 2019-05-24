@@ -2,12 +2,13 @@
   name: Predicting Customer Spend - Rank Top 20%
   github: deepmaniyar/clubmahindra-av-competition
   description: | # this will include new lines to allow paragraphs
-    I participated in an Analytics vidhya competition where I achieved rank in the top 20%. I performed data cleaning and preprocessing by leveraging concepts like feature engineering and feature selection. Used cross-validation to select the best hyperparameters achieving a root mean error squared of 0.967 (Best - 0.945)
+    I participated in an Analytics Vidhya competition, where I achieved a rank in the top 20%. I performed data cleaning and preprocessing by leveraging concepts like feature engineering and feature selection. Used cross-validation to select the best hyperparameters achieving a root mean error squared of 0.967 (Best - 0.945)
+
  
 - layout: top-middle
   name: Churn Prediction for a Subscription-based Business
   github: deepmaniyar/Churn-Prediction
   description: | # this will include new lines to allow paragraphs
-    The task was to predict whether a given customer will churn based on features like user demographics and log data of users listening habits. I built a predictive model which detects user churn using Random Forest and  Gradient Boosting (Precision – 97%). I also performed preprocessing steps for increased precision and used feature selection to decrease the computational cost 
+    The task was to predict whether a given customer will churn based on features like user demographics and log data of users listening habits. I built a predictive model which detects user churn using Random Forest and  Gradient Boosting (Precision – 97%). I also performed preprocessing steps for increased precision and used feature selection to decrease the computational cost.
 
  

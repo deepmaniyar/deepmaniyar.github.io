@@ -1,9 +1,9 @@
 - layout: left
-  company: Syracust University
+  company: Syracuse University
   job_title: Faculty Assitant
   dates: January 2018 - May 2019
   quote: >
-   Worked under Professor Jeff Saltz (Ph.D) on various project which included testing and analysis
+   Worked under Professor Jeff Saltz (Ph.D.) on various projects which included testing and analysis
   description: | # this will include new lines to allow paragraphs
     I researched and tested data analytics process system to foster team management [teamwork and task performance]. Performed analytics to track student performance using R increasing peer evaluation score by 25% 
 
@@ -13,16 +13,16 @@
   job_title: Data Science Intern
   dates: September 2018 - December 2018
   quote: >
-   UsPLM is a software company in New York State, which helps develop an integrated, scalable drone fleet management solution for for UAS operations
+   UsPLM is a software company in New York State, which helps develop an integrated, scalable drone fleet management solution for UAS operations
   description: | # this will include new lines to allow paragraphs
-    I created data preprocessing pipelines for the data gathered from log files of drone’s flight missions and also built a machine learning model to gain actionable insights and predict the remaining useful life in drones in real time
+    I created data preprocessing pipelines for the data gathered from log files of drone’s flight missions and also built a machine learning model to gain actionable insights and predict the remaining useful life in drones in real time.
 
 - layout: left
   company: Viral Fission
   job_title: Marketing Analyst
   dates: February 2016 - April 2017
   quote: >
-   Viral Fission is an onground and online marketing company
+   Viral Fission is an on-round and online marketing company
   description: | # this will include new lines to allow paragraphs
     I spearheaded a team of 2 interns to strategize acquisition & delivered synergies for online and on-ground marketing. I also performed detailed analysis & identified key factors leading to a 20% increase in campaign outreach and sales 
 
@@ -32,7 +32,7 @@
   job_title: Business Development & Analyst
   dates: August 2015 - February 2016
   quote: >
-    Sutra Services helps product based start-ups with their hiring requirements 
+    Sutra Services helps product-based start-ups with their hiring requirements 
   description: | # this will include new lines to allow paragraphs
     I managed the business development department and increased sales by 15% month-on-month. Part of my responsibilities included creating detailed reports & tracking the performance of the acquisition teams which reduced operation overhead by 18% 
 
