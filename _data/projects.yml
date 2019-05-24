@@ -1,8 +1,15 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Predicting Customer Spend - Rank Top 20%
+  link: https://github.com/deepmaniyar/
+  github: deepmaniyar/clubmahindra-av-competition
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I participated in an Analytics vidhya competition where I achieved rank in the top 20%. I performed data cleaning and preprocessing by leveraging concepts like feature engineering and feature selection. Used cross-validation to select the best hyperparameters achieving a root mean error squared of 0.967 (Best - 0.945)
+ 
+- layout: top-middle
+  Churn Prediction for a Subscription-based Business
+  link: https://github.com/deepmaniyar/
+  github: deepmaniyar/Churn-Prediction
+  description: | # this will include new lines to allow paragraphs
+    The task was to predict whether a given customer will churn based on features like user demographics and log data of users listening habits. I built a predictive model which detects user churn using Random Forest and  Gradient Boosting (Precision – 97%). I also performed preprocessing steps for increased precision and used feature selection to decrease the computational cost 
+
+ 

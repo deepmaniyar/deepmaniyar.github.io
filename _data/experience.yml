@@ -1,4 +1,14 @@
 - layout: left
+  company: Syracust University
+  job_title: Faculty Assitant
+  dates: January 2018 - May 2019
+  quote: >
+   Worked under Professor Jeff Saltz (Ph.D) on various project which included testing and analysis
+  description: | # this will include new lines to allow paragraphs
+    I researched and tested data analytics process system to foster team management [teamwork and task performance]. Performed analytics to track student performance using R increasing peer evaluation score by 25% 
+
+
+- layout: left
   company: UsPLM, Inc
   job_title: Data Science Intern
   dates: September 2018 - December 2018
@@ -15,5 +25,15 @@
    Viral Fission is an onground and online marketing company
   description: | # this will include new lines to allow paragraphs
     I spearheaded a team of 2 interns to strategize acquisition & delivered synergies for online and on-ground marketing. I also performed detailed analysis & identified key factors leading to a 20% increase in campaign outreach and sales 
+
+
+- layout: left
+  company: Sutra Services Pvt. Ltd. 
+  job_title: Business Development & Analyst
+  dates: August 2015 - February 2016
+  quote: >
+    Sutra Services helps product based start-ups with their hiring requirements 
+  description: | # this will include new lines to allow paragraphs
+    I managed the business development department and increased sales by 15% month-on-month. Part of my responsibilities included creating detailed reports & tracking the performance of the acquisition teams which reduced operation overhead by 18% 
 
 
