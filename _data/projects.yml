@@ -6,7 +6,7 @@
     I participated in an Analytics vidhya competition where I achieved rank in the top 20%. I performed data cleaning and preprocessing by leveraging concepts like feature engineering and feature selection. Used cross-validation to select the best hyperparameters achieving a root mean error squared of 0.967 (Best - 0.945)
  
 - layout: top-middle
-  Churn Prediction for a Subscription-based Business
+  name: Churn Prediction for a Subscription-based Business
   link: https://github.com/deepmaniyar/
   github: deepmaniyar/Churn-Prediction
   description: | # this will include new lines to allow paragraphs
