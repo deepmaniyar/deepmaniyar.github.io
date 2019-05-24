@@ -1,39 +1,9 @@
 - layout: left
-  company: Syracust University
-  job_title: Faculty Assitant
-  dates: January 2018 - May 2019
+  company: The Boring Company
+  link: boringcompany.com
+  job_title: Senior Network System Administrator
+  dates: November 2017 - Present
   quote: >
-   Worked under Professor Jeff Saltz (Ph.D) on various project which included testing and analysis
+   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    I researched and tested data analytics process system to foster team management [teamwork and task performance]. Performed analytics to track student performance using R increasing peer evaluation score by 25% 
-
-
-- layout: left
-  company: UsPLM, Inc
-  job_title: Data Science Intern
-  dates: September 2018 - December 2018
-  quote: >
-   UsPLM is a software company in New York State, which helps develop an integrated, scalable drone fleet management solution for for UAS operations
-  description: | # this will include new lines to allow paragraphs
-    I created data preprocessing pipelines for the data gathered from log files of drone’s flight missions and also built a machine learning model to gain actionable insights and predict the remaining useful life in drones in real time
-
-- layout: left
-  company: Viral Fission
-  job_title: Marketing Analyst
-  dates: February 2016 - April 2017
-  quote: >
-   Viral Fission is an onground and online marketing company
-  description: | # this will include new lines to allow paragraphs
-    I spearheaded a team of 2 interns to strategize acquisition & delivered synergies for online and on-ground marketing. I also performed detailed analysis & identified key factors leading to a 20% increase in campaign outreach and sales 
-
-
-- layout: left
-  company: Sutra Services Pvt. Ltd. 
-  job_title: Business Development & Analyst
-  dates: August 2015 - February 2016
-  quote: >
-    Sutra Services helps product based start-ups with their hiring requirements 
-  description: | # this will include new lines to allow paragraphs
-    I managed the business development department and increased sales by 15% month-on-month. Part of my responsibilities included creating detailed reports & tracking the performance of the acquisition teams which reduced operation overhead by 18% 
-
-
+    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
