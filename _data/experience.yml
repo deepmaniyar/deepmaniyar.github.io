@@ -15,7 +15,7 @@
   quote: >
    UsPLM is a software company in New York State, which helps develop an integrated, scalable drone fleet management solution for UAS operations
   description: | # this will include new lines to allow paragraphs
-    I created data preprocessing pipelines for the data gathered from log files of drone’s flight missions and also built a machine learning model to gain actionable insights and predict the remaining useful life in drones in real time.
+    I created data preprocessing pipelines for the data gathered from log files of drone’s flight missions and built a machine learning model to gain actionable insights and predict the remaining useful life in drones in real time.
 
 - layout: left
   company: Viral Fission
@@ -24,7 +24,7 @@
   quote: >
    Viral Fission is an on-round and online marketing company
   description: | # this will include new lines to allow paragraphs
-    I spearheaded a team of 2 interns to strategize acquisition & delivered synergies for online and on-ground marketing. I also performed detailed analysis & identified key factors leading to a 20% increase in campaign outreach and sales 
+    I spearheaded a team of 2 interns to strategize acquisition & delivered synergies for online and on-ground marketing. I performed detailed analysis & identified key factors leading to a 20% increase in campaign outreach and sales 
 
 
 - layout: left
